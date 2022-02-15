@@ -1,0 +1,4 @@
+_cacache
+_logs
+.env
+node_modules
